@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+
+html {
+    font-family: Helvetica, GillSans, Calibri, Trebuchet, sans-serif;
+  }
+body {
+  background-image: url("../images/equipment.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+nav {
+  background-color: #A04B19;
+  .radioLogo{
+    height: 40px;
+    width: 60px;
+    margin: 15px
+  }
+}
+.card {
+  background-color: #C78283;
+  .card-title {
+    font-size: 50px;
+    }
+    p {
+      padding-top: 15px;
+    }
+    .card-action{
+      color: #FFECCC;
+    }
+  }
