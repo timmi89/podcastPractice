@@ -9,25 +9,30 @@ html {
   font-family: Helvetica, GillSans, Calibri, Trebuchet, sans-serif; }
 
 body {
-  background-image: url("../images/equipment.jpg");
+  background-image: url("../images/showFlier.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; }
 
 nav {
-  background-color: #A04B19; }
+  background-color: #272E26; }
   nav .radioLogo {
     height: 40px;
     width: 60px;
     margin: 15px; }
 
 .card {
-  background-color: #C78283; }
+  background-color: #6B1A39; }
   .card .card-title {
     font-size: 50px; }
   .card p {
     padding-top: 15px; }
-  .card .card-action {
-    color: #FFECCC; }
+  .card .places {
+    color: black; }
+
+.work {
+  background-color: #958D69;
+  text-align: center;
+  color: white; }
 
 /*# sourceMappingURL=styles.css.map */
