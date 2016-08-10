@@ -22,17 +22,21 @@ nav {
     margin: 15px; }
 
 .card {
-  background-color: #6B1A39; }
+  background-color: #6B1A39;
+  margin-bottom: 250px; }
   .card .card-title {
-    font-size: 50px; }
+    font-size: 50px;
+    font-weight: 100; }
   .card p {
     padding-top: 15px; }
-  .card .places {
-    color: black; }
 
 .work {
   background-color: #958D69;
   text-align: center;
   color: white; }
+
+.btn-flat {
+  color: white !important;
+  background-color: #B79D94; }
 
 /*# sourceMappingURL=styles.css.map */

@@ -28,18 +28,21 @@ nav {
 }
 .card {
   background-color: #6B1A39;
+  margin-bottom: 250px;
   .card-title {
     font-size: 50px;
+    font-weight: 100;
     }
     p {
       padding-top: 15px;
-    }
-    .places{
-      color: black;
     }
   }
 .work {
   background-color: #958D69;
   text-align: center;
   color: white;
+}
+.btn-flat{
+  color: white !important;
+  background-color: #B79D94;
 }
