@@ -10,7 +10,7 @@
 html {
     font-family: Helvetica, GillSans, Calibri, Trebuchet, sans-serif;
   }
-body {
+.home {
   background-image: url("../images/showFlier.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,4 +45,10 @@ nav {
 .btn-flat{
   color: white !important;
   background-color: #B79D94;
+}
+.people{
+  text-align: center;
+}
+.peopleInfo {
+  text-align: left;
 }
