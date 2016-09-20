@@ -31,7 +31,17 @@ nav {
     padding-top: 15px; }
 
 .work {
+  background-color: #4B734E;
+  text-align: center;
+  color: white; }
+
+.later {
   background-color: #958D69;
+  text-align: center;
+  color: white; }
+
+.laterer {
+  background-color: #C6403A;
   text-align: center;
   color: white; }
 
